@@ -909,6 +909,15 @@ h6::after {
     width: 100%;
   }
 
+  .h-right .hero-star-icon {
+    top: -5%;
+    right: -8%;
+    z-index: -1;
+  }
+  .hero-icon-2 img {
+    width: 10px;
+  }
+
   .hero-line {
     position: relative;
     padding: 3px;
